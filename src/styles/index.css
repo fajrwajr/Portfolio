@@ -1,12 +1,44 @@
-
-/* 
-
-    You can write your own styles here...
+.color {
+    background-color: black;
+    height: 650px;
+    margin-left: -63px;
+    position: absolute;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.colorTwo {
+    background-color: #d9d9d9;
+    height: 650px;
+    width: 62%;
+    margin-left: 506px;
+    position: absolute;
+}
+
+
+.container {
+    position: relative;
+}
+
+.text {
+    margin-left: -365px;
+    color: white;
+}
+
+
+.Main {
+    border: 2px solid white;
+    margin-top: 15%;
+    margin-left: 23%;
+    width: 300px;
+    height: 250px;
+    padding-top: 10px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    padding-left: 390px;
+    position: absolute;
+    z-index: 9
+}
+
+.cards {
+    margin-top: 60%;
+}

@@ -1,7 +1,7 @@
 {
 	"name": "react-hello",
 	"version": "1.0.1",
-	"homepage": "https://fajrmuhammad.tech",
+	"homepage": "public",
 	"engines": {
 		"node": "16.x"
 	},
